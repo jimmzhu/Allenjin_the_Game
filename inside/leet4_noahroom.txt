@@ -1,0 +1,32 @@
+6 6 Obstruction wall
+6 7 Obstruction wall
+6 8 Obstruction wall
+6 9 Obstruction wall
+6 10 Obstruction wall
+
+7 4 Obstruction magenta_abyss_of_doom
+7 5 Obstruction magenta_abyss_of_doom
+7 11 Obstruction magenta_abyss_of_doom
+7 12 Obstruction magenta_abyss_of_doom
+10 4 Obstruction magenta_abyss_of_doom
+10 5 Obstruction magenta_abyss_of_doom
+10 11 Obstruction magenta_abyss_of_doom
+10 12 Obstruction magenta_abyss_of_doom
+
+8 4 Obstruction magenta_abyss_of_doom
+8 12 Obstruction magenta_abyss_of_doom
+9 4 Obstruction magenta_abyss_of_doom
+9 12 Obstruction magenta_abyss_of_doom
+
+11 6 Obstruction magenta_abyss_of_doom
+12 6 Obstruction magenta_abyss_of_doom
+13 6 Obstruction magenta_abyss_of_doom
+11 10 Obstruction magenta_abyss_of_doom
+12 10 Obstruction magenta_abyss_of_doom
+13 10 Obstruction magenta_abyss_of_doom
+
+14 6 Obstruction wall
+14 7 Obstruction wall
+14 8 Obstruction wall
+14 9 Obstruction wall
+14 10 Obstruction wall

@@ -1,0 +1,30 @@
+6 5 Obstruction fridge
+6 6 Obstruction sink
+6 7 Obstruction cabinet
+6 8 Obstruction plant
+6 9 Obstruction plant
+6 10 Obstruction wall
+6 11 Obstruction wall
+6 12 Obstruction wall
+
+8 6 Obstruction table
+8 7 Obstruction table
+8 8 Obstruction TV
+
+10 7 Obstruction table
+
+7 4 Obstruction wall   7 13 Obstruction wall
+8 4 Obstruction wall   8 13 Obstruction wall
+9 4 Obstruction wall   9 13 Obstruction wall
+10 4 Obstruction wall  10 13 Obstruction wall
+11 4 Obstruction wall  11 13 Obstruction wall
+12 4 Obstruction wall  12 13 Obstruction wall
+
+12 5 Obstruction wall
+12 6 Obstruction wall
+12 7 Obstruction wall
+12 8 Obstruction wall
+12 9 Obstruction wall
+12 10 Obstruction wall
+12 12 Obstruction wall
+12 13 Obstruction wall

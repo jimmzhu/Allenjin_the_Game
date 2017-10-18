@@ -1,0 +1,26 @@
+0 0 Obstruction tree
+0 10 ShoreLine shoreline
+1 0 Obstruction tree
+1 10 ShoreLine shoreline
+2 0 Obstruction tree
+2 10 ShoreLine shoreline
+3 0 Obstruction tree
+3 10 ShoreLine shoreline
+4 0 Obstruction tree
+4 10 ShoreLine shoreline
+5 0 Obstruction tree
+5 10 ShoreLine shoreline
+6 10 ShoreLine shoreline
+6 11 ShoreLine shoreline
+7 12 ShoreLine shoreline
+8 12 ShoreLine shoreline
+9 12 ShoreLine shoreline
+10 12 ShoreLine shoreline
+11 12 ShoreLine shoreline
+12 12 ShoreLine shoreline
+13 12 ShoreLine shoreline
+14 12 ShoreLine shoreline
+15 12 ShoreLine shoreline
+16 12 ShoreLine shoreline
+
+7 3 Sign viz yOffset 7 <--Swimming_Lessons:_that_way!!

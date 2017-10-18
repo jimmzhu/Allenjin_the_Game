@@ -1,0 +1,99 @@
+3 3 Obstruction display_case
+3 4 Obstruction display_case
+3 5 Obstruction wall
+3 6 Obstruction wall
+3 7 Obstruction wall
+3 8 Obstruction wall
+3 9 Obstruction wall
+3 10 Obstruction wall
+3 11 Obstruction wall
+3 12 Obstruction wall
+3 13 Obstruction boxes
+
+4 5 Obstruction pokeball    4 9 Obstruction pokeball
+5 5 Obstruction counter     5 9 Obstruction counter
+6 5 Obstruction pokeball    6 9 Obstruction pokeball
+
+6 6 Obstruction counter
+6 7 Obstruction counter
+6 8 Obstruction bulletin_Ohai_I_am_actually_a_person
+
+4 12 Obstruction boxes
+4 13 Obstruction boxes
+5 13 Obstruction boxes
+6 13 Obstruction boxes
+7 13 Obstruction boxes
+8 13 Obstruction boxes
+10 13 Obstruction boxes
+11 13 Obstruction boxes
+12 12 Obstruction boxes
+12 13 Obstruction boxes
+13 12 Obstruction boxes
+13 13 Obstruction boxes
+
+12 10 Obstruction egg
+12 11 Obstruction leek._SPIN_ME!!_XD
+11 10 Obstruction sunglasses_8D
+11 11 Obstruction fossil_O.O
+
+11 3 Obstruction apple_core
+11 4 Obstruction magical_elixirs
+12 3 Obstruction magnet
+12 4 Obstruction james_yang's_bike_luls
+
+8 3 Obstruction boxes
+9 3 Obstruction boxes
+10 3 Obstruction boxes
+
+
+14 2 Obstruction wall
+14 3 Obstruction wall
+14 4 Obstruction wall
+14 5 Obstruction wall
+14 6 Obstruction wall
+14 7 Obstruction wall
+14 8 Obstruction wall
+14 9 Obstruction wall
+14 10 Obstruction wall
+14 11 Obstruction wall
+14 12 Obstruction wall
+14 13 Obstruction wall
+14 14 Obstruction wall
+
+2 2 Obstruction wall
+2 3 Obstruction wall
+2 4 Obstruction wall
+2 5 Obstruction wall
+2 6 Obstruction wall
+2 7 Obstruction wall
+2 8 Obstruction wall
+2 9 Obstruction wall
+2 10 Obstruction wall
+2 11 Obstruction wall
+2 12 Obstruction wall
+2 13 Obstruction wall
+2 14 Obstruction wall
+
+3 14 Obstruction wall
+4 14 Obstruction wall
+5 14 Obstruction wall
+6 14 Obstruction wall
+7 14 Obstruction wall
+8 14 Obstruction wall
+9 14 Obstruction wall
+10 14 Obstruction wall
+11 14 Obstruction wall
+12 14 Obstruction wall
+13 14 Obstruction wall
+
+3 2 Obstruction wall
+4 2 Obstruction wall
+5 2 Obstruction wall
+6 2 Obstruction wall
+7 2 Obstruction wall
+8 2 Obstruction wall
+9 2 Obstruction wall
+10 2 Obstruction wall
+11 2 Obstruction wall
+12 2 Obstruction wall
+13 2 Obstruction wall

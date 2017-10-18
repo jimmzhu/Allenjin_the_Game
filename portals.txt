@@ -1,0 +1,51 @@
+outside 0 1		3 8		Portal		inside costco 		13 8		notViz
+inside costco		14 8		Portal		outside 0 1 		4 8		notViz
+
+outside 0 2		12 11		Portal		inside randomhouse2	11 11		notViz
+inside randomhouse2	12 11		Portal		outside 0 2		13 11		notViz
+
+outside 1 0		12 12		Portal		inside allenjinhouse_downstairs	13 8	notViz
+inside allenjinhouse_downstairs	14 8	Portal		outside 1 0		13 12		notViz
+inside allenjinhouse_downstairs	3 12	Ladder		inside allenjinhouse_upstairs	4 12	notViz
+inside allenjinhouse_upstairs	3 12	Ladder		inside allenjinhouse_downstairs	4 12	notViz
+
+outside 1 1		11 11		Portal		inside sip		13 8		notViz
+inside sip		14 8		Portal		outside 1 1		12 11		notViz
+
+outside 2 0		12 12		Portal		inside waterabilityhouse 11 11		notViz
+inside waterabilityhouse 12 11		Portal		outside 2 0		13 12		notViz
+
+outside 3 0		14 7		Portal		inside randomhouse	11 11		notViz
+inside randomhouse	12 11		Portal		outside 3 0		15 7		notViz
+
+outside 3 1		3 14		Portal		inside sekritbase	13 8		notViz
+inside sekritbase	14 8		Portal		outside 3 1		4 14		notViz
+
+
+outside 0 5		3 13		Portal		inside leet4_anteroom	13 8		notViz
+inside leet4_anteroom	14 8		Portal		outside 0 5		4 13		notViz
+
+inside leet4_anteroom	5 8		Portal		inside leet4_hall1	13 8		notViz
+inside leet4_hall1	14 7		Portal		inside leet4_anteroom	6 8		notViz
+inside leet4_hall1	14 8		Portal		inside leet4_anteroom	6 8		notViz
+inside leet4_hall1	14 9		Portal		inside leet4_anteroom	6 8		notViz
+
+inside leet4_hall1	3 7		Portal		inside leet4_neuhausroom 13 7		notViz
+inside leet4_hall1	3 8		Portal		inside leet4_neuhausroom 13 8		notViz
+inside leet4_hall1	3 9		Portal		inside leet4_neuhausroom 13 9		notViz
+
+inside leet4_hall2	3 7		Portal		inside leet4_hestersroom 13 7		notViz
+inside leet4_hall2	3 8		Portal		inside leet4_hestersroom 13 8		notViz
+inside leet4_hall2	3 9		Portal		inside leet4_hestersroom 13 9		notViz
+
+inside leet4_hall3	3 7		Portal		inside leet4_halandersroom 13 7		notViz
+inside leet4_hall3	3 8		Portal		inside leet4_halandersroom 13 8		notViz
+inside leet4_hall3	3 9		Portal		inside leet4_halandersroom 13 9		notViz
+
+inside leet4_hall4	3 7		Portal		inside leet4_hubschmittsroom 13 7	notViz
+inside leet4_hall4	3 8		Portal		inside leet4_hubschmittsroom 13 8	notViz
+inside leet4_hall4	3 9		Portal		inside leet4_hubschmittsroom 13 9	notViz
+
+inside leet4_hall5	3 7		Portal		inside leet4_noahroom	13 7		notViz
+inside leet4_hall5	3 8		Portal		inside leet4_noahroom	13 8		notViz
+inside leet4_hall5	3 9		Portal		inside leet4_noahroom	13 9		notViz

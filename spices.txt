@@ -1,0 +1,32 @@
+inside sip		8 11 stevensPass move		outside 1 1 16 5 outside 1 1 15 4
+inside sip		8 11 stevensPass transform	outside 0 0 9 9 nothing
+inside waterabilityhouse 9 8 olasPass learn	swim
+
+inside leet4_noahroom	8 8 noahtyePass learn	costcoCard
+inside leet4_noahroom	8 8 noahtyePass transform	inside leet4_noahroom 6 8 Ladder outside 0 5 4 13	viz black
+inside leet4_noahroom	8 8 noahtyePass move		outside 0 1 5 8  outside 0 1 5 9
+
+inside leet4_neuhausroom 8 8 neuhausPass transform		inside leet4_neuhausroom 5 8 Portal inside leet4_hall2 13 8	viz black
+inside leet4_hestersroom 8 8 hesterPass transform		inside leet4_hestersroom 5 8 Portal inside leet4_hall3 13 8	viz black
+inside leet4_halandersroom 8 8 halanderPass transform		inside leet4_halandersroom 5 8 Portal inside leet4_hall4 13 8	viz black
+inside leet4_hubschmittsroom 8 8 hubschmittPass transform	inside leet4_hubschmittsroom 5 8 Portal inside leet4_hall5 13 8	viz black
+
+inside costco		11 10 nothing	drain
+inside costco		12 10 nothing	reset
+inside costco		11 11 nothing	learn !treewalk
+inside costco		12 11 nothing	learn treewalk
+inside costco		12 11 nothing	learn swim
+inside costco		12 4  nothing	buff
+
+inside allenjinhouse_upstairs	4 10 nine transform	inside allenjinhouse_downstairs 4 4 Portal outside 0 0 6 3 sekrit
+outside 0 0 9 9		nine move		outside 0 1 5 8  outside 0 1 5 9
+outside 0 0 9 9		nine transform		outside 0 0 9 9	Portal	outside 0 1 6 8 sekrit
+
+inside allenjinhouse_upstairs	4 10 something8 learn nine
+inside allenjinhouse_upstairs	4 10 something7 learn something8
+inside allenjinhouse_upstairs	4 10 something6 learn something7
+inside allenjinhouse_upstairs	4 10 something5 learn something6
+inside allenjinhouse_upstairs	4 10 something4 learn something5
+inside allenjinhouse_upstairs	4 10 something3 learn something4
+inside allenjinhouse_upstairs	4 10 something2 learn something3
+inside allenjinhouse_upstairs	4 10 nothing learn something2
